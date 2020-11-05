@@ -138,14 +138,14 @@ function preload() {
   NarutoImg = loadImage("visuals/Naruto.png");
   ObitoImg = loadImage("visuals/Obito.png");
   chakraImg = loadImage("visuals/Chakra.png");
-  backgroundSound = loadSound("visuals/AJ Kurano Sadness And Sorrow Trap.mp3");
+  backgroundSound = loadSound("visuals/AJKuranoSadnessAndSorrowTrap.mp3");
   logoImg = loadImage("visuals/Logo.png");
   PCImg = loadImage("visuals/PC Win.png")
   NPCImg = loadImage("visuals/NPC Win.png")
   JinchurikiAttackImg = loadImage("visuals/NPC Attack.png");
   SasutoUzuhaAttackImg = loadImage("visuals/PC attack.png");
-  WinSound = loadSound("visuals/AJ Kurano Sphero Intro.mp3")
-  LoseSound = loadSound("visuals/AJ Kurano Trap Intro.mp3")
+  WinSound = loadSound("visuals/AJKuranoSpheroIntro.mp3")
+  LoseSound = loadSound("visuals/AJKuranoTrapIntro.mp3")
 }
 function draw() {
   background("cyan");  
