@@ -138,7 +138,7 @@ function preload() {
   NarutoImg = loadImage("visuals/Naruto.png");
   ObitoImg = loadImage("visuals/Obito.png");
   chakraImg = loadImage("visuals/Chakra.png");
-  backgroundSound = loadSound("visuals/AJKuranoSadnessAndSorrowTrap.mp3");
+  backgroundSound = loadSound("visuals/AJ KuranoSadnessAndSorrowTrap.mp3");
   logoImg = loadImage("visuals/Logo.png");
   PCImg = loadImage("visuals/PC Win.png")
   NPCImg = loadImage("visuals/NPC Win.png")
